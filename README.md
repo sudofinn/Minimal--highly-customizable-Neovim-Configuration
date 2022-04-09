@@ -7,6 +7,7 @@ It features things like an airline for displaying information in a beautiful way
 to quickly jump between files and see your current folder structure. ❤️
 
 ## Snapshots
+<img src="./Neoviminit.vim.jpg" alt="Neovim picture">
 
 ## Installation
 For this to work properly, you need Vim or Neovim. ( I use Neovim)
